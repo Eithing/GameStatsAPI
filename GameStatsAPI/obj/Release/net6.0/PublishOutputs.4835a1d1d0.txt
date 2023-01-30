@@ -1,0 +1,13 @@
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\GameStatsAPI.exe
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\GameStatsAPI.dll
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\GameStatsAPI.runtimeconfig.json
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\GameStatsAPI.pdb
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+D:\BackUp\Projects\Dev\GameStatsAPI\GameStatsAPI\obj\Release\net6.0\PubTmp\Out\GameStatsAPI.deps.json
